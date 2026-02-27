@@ -80,3 +80,7 @@ To copy the linktext of a note in the results list, click the icon next to its l
 - `npm i` to install dependencies
 - `npm run dev` to start compilation in watch mode.
 - Copy over `main.js`, `styles.css`, `manifest.json` to your vault `VaultFolder/.obsidian/plugins/obsidian-gpt-zettelkasten/`.
+
+#TODO
+-[] add support for OpenAI compatible API + Local AI
+
